@@ -1,0 +1,14 @@
+File System Structure:
+
+SuperBlock
+    write
+    read
+inode
+    write
+    read
+block
+    write
+    read
+File
+    read
+    write
